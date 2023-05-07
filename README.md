@@ -49,6 +49,4 @@ The game loop is implemented using Pygame's event loop. The loop listens for eve
 
 The images for the marks are taken from Wikipedia: https://en.wikipedia.org/wiki/File:X_mark.svg and https://en.wikipedia.org/wiki/File:O_mark.svg
 
-## License
 
-This game is released under the MIT License. See the LICENSE file for details.
