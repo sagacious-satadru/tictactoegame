@@ -1,5 +1,3 @@
-If you're looking for a more comprehensive README, here's an expanded version:
-
 # Tic Tac Toe Game
 
 This is a simple implementation of the classic Tic Tac Toe game using Pygame and Numpy libraries in Python.
